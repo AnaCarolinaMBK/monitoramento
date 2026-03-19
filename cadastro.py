@@ -1,8 +1,3 @@
-'''Este projeto consiste em um sistema de monitoramento marítimo e aéreo em tempo real, 
-desenvolvido em Python com interface gráfica utilizando PyQt5. O sistema permite o cadastro e login de usuários, 
-com armazenamento de dados em arquivo JSON. Após o acesso, o usuário pode visualizar em um mapa interativo a localização de navios e aviões utilizando APIs externas. 
-Os navios são obtidos através da API AIS Stream e os aviões pela OpenSky Network. O mapa é gerado com a biblioteca Folium, 
-exibindo informações como posição, velocidade, tipo e destino das embarcações e aeronaves.'''
 
 
 import requests
