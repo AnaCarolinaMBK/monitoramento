@@ -37,7 +37,7 @@ def abrirTelaNavios():
     telaNavio.show()  
 
 
-API_KEY = "5d8e5ade42174e3c14615a20bb089674d2a5c68e"
+API_KEY = "SUA_API_KEY"
 
 
 def on_message(ws, message):
